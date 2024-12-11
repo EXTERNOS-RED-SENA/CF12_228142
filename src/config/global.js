@@ -277,7 +277,7 @@ export default {
         'Verificación de que todos los componentes físicos del equipo funcionen correctamente.',
     },
     {
-      termino: 'Tests de rendimiento',
+      termino: '<em>Tests</em> de rendimiento',
       significado:
         'Evaluaciones que miden la capacidad del equipo para manejar cargas de trabajo específicas, asegurando que cumpla con las expectativas del usuario.',
     },

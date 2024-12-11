@@ -11,13 +11,13 @@
 
     .row.justify-content-center.mb-4
       .col-lg-8.my-lg-0.my-3
-        p La configuración y entrega de equipos de cómputo es un proceso complejo que involucra múltiples etapas y procedimientos para asegurar que los equipos funcionen de manera óptima y cumplan con las expectativas del usuario. Este proceso comienza con la validación de sistemas, que incluye pruebas de hardware, verificación de <i>software</i> y <i>tests</i> de rendimiento. Las pruebas garantizan que todos los componentes físicos y digitales del equipo funcionen correctamente y estén configurados adecuadamente. La validación de sistemas es primordial para identificar y corregir cualquier problema antes de que el equipo sea entregado al usuario final.
+        p La configuración y entrega de equipos de cómputo es un proceso complejo que involucra múltiples etapas y procedimientos para asegurar que los equipos funcionen de manera óptima y cumplan con las expectativas del usuario. Este proceso comienza con la validación de sistemas, que incluye pruebas de #[i hardware], verificación de <i>software</i> y <i>tests</i> de rendimiento. Las pruebas garantizan que todos los componentes físicos y digitales del equipo funcionen correctamente y estén configurados adecuadamente. La validación de sistemas es primordial para identificar y corregir cualquier problema antes de que el equipo sea entregado al usuario final.
 
         .row.justify-content-center.bg1.p-4.brad
           .col-lg-auto.j1
             img.img-a.img-t(src='@/assets/curso/temas/introduccion/2.png' alt='')
           .col.pt-lg-0.pt-md-4
-            p.mb-0 Una vez que el equipo ha pasado las pruebas de validación, se procede a la configuración final. Esta etapa incluye la personalización del equipo según las preferencias y necesidades específicas del usuario, así como la realización de <i>backups</i> y actualizaciones finales. La personalización de usuario asegura que el equipo esté listo para ser utilizado de manera inmediata, mientras que los <i>backups</i> y actualizaciones garantizan que los datos importantes estén protegidos y que el equipo tenga la última versión de <i>software</i> y parches de seguridad. Estas medidas mejoran el rendimiento y la protección del equipo
+            p.mb-0 Una vez que el equipo ha pasado las pruebas de validación, se procede a la configuración final. Esta etapa incluye la personalización del equipo según las preferencias y necesidades específicas del usuario, así como la realización de <i>backups</i> y actualizaciones finales. La personalización de usuario asegura que el equipo esté listo para ser utilizado de manera inmediata, mientras que los <i>backups</i> y actualizaciones garantizan que los datos importantes estén protegidos y que el equipo tenga la última versión de <i>software</i> y parches de seguridad. Estas medidas mejoran el rendimiento y la protección del equipo.
 
       .col-lg-4.my-lg-0.my-3
         img.img-a.img-t(src='@/assets/curso/temas/introduccion/1.png' alt='')  

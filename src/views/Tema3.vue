@@ -8,7 +8,7 @@
       h1 Protocolos de entrega
     .row.justify-content-center.align-items-center.bg1
       .col.pt-lg-0.pt-md-4.p-4
-        p.mb-0 Los protocolos de entrega son procedimientos estructurados que aseguran que los equipos de cómputo se entreguen de manera eficiente y efectiva al usuario final. Estos protocolos garantizan que el equipo cumpla con los requisitos especificados, que toda la documentación necesaria esté completa y que el usuario esté capacitado para utilizar el equipo de manera adecuada
+        p.mb-0 Los protocolos de entrega son procedimientos estructurados que aseguran que los equipos de cómputo se entreguen de manera eficiente y efectiva al usuario final. Estos protocolos garantizan que el equipo cumpla con los requisitos especificados, que toda la documentación necesaria esté completa y que el usuario esté capacitado para utilizar el equipo de manera adecuada.
       .col-lg-auto.pt-lg-0.pt-md-4
         img.img-a.img-t(src='@/assets/curso/temas/t3/1.png' alt='')
     Separador  
@@ -27,13 +27,13 @@
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span #[i Hardware]: Verificación de que el hardware del equipo, como la CPU, la memoria RAM, el disco duro y la tarjeta gráfica, cumpla con las especificaciones técnicas requeridas.
+                span #[b #[i Hardware]:] verificación de que el #[i hardware] del equipo, como la CPU, la memoria RAM, el disco duro y la tarjeta gráfica, cumpla con las especificaciones técnicas requeridas.
               li 
                 i.fas.fa-check-circle.color1
-                span #[i Software]: Verificación de que el software instalado, incluyendo el sistema operativo y las aplicaciones, cumpla con las especificaciones y requisitos del usuario.
+                span #[b #[i Software]:] verificación de que el #[i software] instalado, incluyendo el sistema operativo y las aplicaciones, cumpla con las especificaciones y requisitos del usuario.
               li 
                 i.fas.fa-check-circle.color1
-                span Periféricos: Verificación de que todos los periféricos, como impresoras, escáneres y otros dispositivos externos, estén incluidos y funcionen correctamente.
+                span #[b Periféricos:] verificación de que todos los periféricos, como impresoras, escáneres y otros dispositivos externos, estén incluidos y funcionen correctamente.
 
       .p-4.py-99.py-md-5(titulo="Pruebas de funcionalidad")
         .row.justify-content-center.bg3.p-4.brad
@@ -45,13 +45,13 @@
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span Pruebas de rendimiento: Evaluación del rendimiento del equipo bajo diferentes condiciones de uso para asegurar que cumpla con las expectativas del usuario.
+                span #[b Pruebas de rendimiento:] evaluación del rendimiento del equipo bajo diferentes condiciones de uso para asegurar que cumpla con las expectativas del usuario.
               li 
                 i.fas.fa-check-circle.color1
-                span Pruebas de compatibilidad: Verificación de que el equipo sea compatible con otros sistemas y dispositivos que el usuario necesitará utilizar.
+                span #[b Pruebas de compatibilidad:] verificación de que el equipo sea compatible con otros sistemas y dispositivos que el usuario necesitará utilizar.
               li
                 i.fas.fa-check-circle.color1
-                span Pruebas de usabilidad: Evaluación de la facilidad de uso del equipo y la interfaz de usuario para asegurar que el usuario pueda utilizar el equipo de manera efectiva.
+                span #[b Pruebas de usabilidad:] evaluación de la facilidad de uso del equipo y la interfaz de usuario para asegurar que el usuario pueda utilizar el equipo de manera efectiva.
               
 
       .p-4.py-99.py-md-5(titulo="Revisión de documentación ")
@@ -64,13 +64,13 @@
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span Manuales de usuario: Verificación de que los manuales de usuario estén completos y sean adecuados para el equipo y el software instalado.
+                span #[b Manuales de usuario:] verificación de que los manuales de usuario estén completos y sean adecuados para el equipo y el software instalado.
               li 
                 i.fas.fa-check-circle.color1
-                span Garantías: Verificación de que toda la documentación relacionada con la garantía del equipo esté completa y correcta.
+                span #[b Garantías:] verificación de que toda la documentación relacionada con la garantía del equipo esté completa y correcta.
               li 
                 i.fas.fa-check-circle.color1
-                span Licencias de software: Verificación de que todas las licencias de software estén incluidas y sean válidas.
+                span #[b Licencias de #[i software]:] verificación de que todas las licencias de software estén incluidas y sean válidas.
             
     Separador  
     #t_3_2.titulo-segundo.color-acento-contenido
@@ -83,56 +83,53 @@
      .col-lg-9.my-lg-0.my-3
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg3")
           div(titulo="Manuales de usuario")
-            p Los manuales de usuario son documentos detallados que proporcionan instrucciones sobre cómo utilizar el equipo y el software instalado.
+            p Los manuales de usuario son documentos detallados que proporcionan instrucciones sobre cómo utilizar el equipo y el #[i software] instalado.
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span Instrucciones de uso: Provisión de instrucciones detalladas sobre cómo utilizar el equipo y el software instalado.
+                span #[b Instrucciones de uso:] provisión de instrucciones detalladas sobre cómo utilizar el equipo y el #[i software] instalado.
               li 
                 i.fas.fa-check-circle.color1
-                span Guías de instalación: Instrucciones detalladas para la instalación y configuración del equipo y el software.
+                span #[b Guías de instalación:] instrucciones detalladas para la instalación y configuración del equipo y el #[i software].
               li 
                 i.fas.fa-check-circle.color1
-                span Solución de problemas: Provisión de guías de solución de problemas para ayudar al usuario a resolver problemas comunes que puedan surgir.
+                span #[b Solución de problemas:] provisión de guías de solución de problemas para ayudar al usuario a resolver problemas comunes que puedan surgir.
               li 
                 i.fas.fa-check-circle.color1
-                span Guías de instalación
+                span #[b Guías de instalación:] las guías de instalación proporcionan instrucciones detalladas para la instalación y configuración del equipo y el #[i software]. 
               li 
                 i.fas.fa-check-circle.color1
-                span Las guías de instalación proporcionan instrucciones detalladas para la instalación y configuración del equipo y el software. 
+                span #[b Instalación de #[i hardware]:] instrucciones detalladas para la instalación y configuración del #[i hardware] del equipo.
               li 
                 i.fas.fa-check-circle.color1
-                span Instalación de hardware: Instrucciones detalladas para la instalación y configuración del hardware del equipo.
+                span #[b Instalación de #[i software]:] instrucciones detalladas para la instalación y configuración del #[i software], incluyendo el sistema operativo y las aplicaciones.
               li 
                 i.fas.fa-check-circle.color1
-                span Instalación de software: Instrucciones detalladas para la instalación y configuración del software, incluyendo el sistema operativo y las aplicaciones.
-              li 
-                i.fas.fa-check-circle.color1
-                span Configuración de red: Instrucciones detalladas para la configuración de las conexiones de red, incluyendo la configuración de Wi-Fi, VPN y otros ajustes de red.
+                span #[b Configuración de red:] instrucciones detalladas para la configuración de las conexiones de red, incluyendo la configuración de #[i Wi-Fi], VPN y otros ajustes de red.
           div(titulo="Documentación de garantía") 
-           p La documentación de garantía proporciona al usuario toda la información necesaria sobre la garantía del equipo
-            ul.lista-ul.fa-ul.ps-4
+           p  La documentación de garantía proporciona al usuario toda la información necesaria sobre la garantía del equipo.
+            ul.lista-ul.fa-ul.ps-4.mt-3
               li 
                 i.fas.fa-check-circle.color1
-                span Cobertura de garantía: Explicación de los términos y condiciones de la garantía, incluyendo qué está cubierto y qué no está cubierto.
+                span #[b Cobertura de garantía:] explicación de los términos y condiciones de la garantía, incluyendo qué está cubierto y qué no está cubierto.
               li
                 i.fas.fa-check-circle.color1
-                span Procedimientos de reclamación: Instrucciones sobre cómo hacer una reclamación bajo la garantía, incluyendo los pasos a seguir y la información necesaria.
+                span #[b Procedimientos de reclamación:] instrucciones sobre cómo hacer una reclamación bajo la garantía, incluyendo los pasos a seguir y la información necesaria.
               li
                 i.fas.fa-check-circle.color1
-                span Extensión de garantía: Opciones para extender la garantía más allá del período inicial, incluyendo los costos y los beneficios adicionales.
+                span #[b Extensión de garantía:] opciones para extender la garantía más allá del período inicial, incluyendo los costos y los beneficios adicionales.
           div(titulo="Documentación de licencias") 
-           p La documentación de licencias proporciona al usuario toda la información necesaria sobre las licencias de software instaladas en el equipo, se recomienda conocer, 
-            ul.lista-ul.fa-ul.ps-4
+           p La documentación de licencias proporciona al usuario toda la información necesaria sobre las licencias de #[i software] instaladas en el equipo, se recomienda conocer.
+            ul.lista-ul.fa-ul.ps-4.mt-3
               li 
                 i.fas.fa-check-circle.color1
-                span Términos de licencia: Explicación de los términos y condiciones de las licencias de software, incluyendo los derechos y obligaciones del usuario.
+                span #[b Términos de licencia:] explicación de los términos y condiciones de las licencias de #[i software], incluyendo los derechos y obligaciones del usuario.
               li
                 i.fas.fa-check-circle.color1
-                span Activación de licencias: Instrucciones sobre cómo activar las licencias de software, incluyendo los códigos de activación y los pasos a seguir.
+                span #[b Activación de licencias:] instrucciones sobre cómo activar las licencias de #[i software], incluyendo los códigos de activación y los pasos a seguir.
               li
                 i.fas.fa-check-circle.color1
-                span Renovación de licencias: Opciones para renovar las licencias de software, incluyendo los costos y los beneficios adicionales.
+                span #[b Renovación de licencias:] opciones para renovar las licencias de #[i software], incluyendo los costos y los beneficios adicionales.
     .row.justify-content-center.mb-4   
       .col-lg-9.my-lg-0.my-3
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg3")
@@ -141,46 +138,42 @@
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span Instrucción sobre el uso del equipo
+                span #[b Instrucción sobre el uso del equipo:] la instrucción sobre el uso del equipo proporciona al usuario las habilidades y conocimientos necesarios para utilizar el equipo de manera efectiva.
                 
               li 
                 i.fas.fa-check-circle.color1
-                span La instrucción sobre el uso del equipo proporciona al usuario las habilidades y conocimientos necesarios para utilizar el equipo de manera efectiva.
+                span #[b Funciones básicas:] explicación de las funciones básicas del equipo y el #[i software] instalado, incluyendo cómo encender y apagar el equipo, cómo iniciar sesión y cómo utilizar las aplicaciones básicas.
                 
               li 
                 i.fas.fa-check-circle.color1
-                span Funciones básicas: Explicación de las funciones básicas del equipo y el software instalado, incluyendo cómo encender y apagar el equipo, cómo iniciar sesión y cómo utilizar las aplicaciones básicas.
-                
+                span #[b Funciones avanzadas:] explicación de las funciones avanzadas del equipo y el #[i software] instalado, incluyendo cómo utilizar las herramientas de productividad, las aplicaciones de diseño gráfico y otras funcionalidades avanzadas.
               li 
                 i.fas.fa-check-circle.color1
-                span Funciones avanzadas: Explicación de las funciones avanzadas del equipo y el software instalado, incluyendo cómo utilizar las herramientas de productividad, las aplicaciones de diseño gráfico y otras funcionalidades avanzadas.
-              li 
-                i.fas.fa-check-circle.color1
-                span Personalización del equipo: Instrucción sobre cómo personalizar el equipo y el software instalado, incluyendo la configuración de perfiles de usuario, la personalización de la interfaz de usuario y la configuración de aplicaciones personalizadas.
+                span #[b Personalización del equipo:] instrucción sobre cómo personalizar el equipo y el #[i software] instalado, incluyendo la configuración de perfiles de usuario, la personalización de la interfaz de usuario y la configuración de aplicaciones personalizadas.
           div(titulo="Explicación de funciones clave ")
-            p La explicación de funciones clave proporciona al usuario una comprensión detallada de las características y funcionalidades más importantes del equipo y el software instalado..
+            p La explicación de funciones clave proporciona al usuario una comprensión detallada de las características y funcionalidades más importantes del equipo y el #[i software] instalado.
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span Funciones de seguridad: Explicación de las funciones de seguridad del equipo y el software instalado, incluyendo cómo configurar y utilizar las herramientas de seguridad, como los antivirus, los firewalls y las políticas de seguridad.
+                span #[b Funciones de seguridad:] explicación de las funciones de seguridad del equipo y el #[i software] instalado, incluyendo cómo configurar y utilizar las herramientas de seguridad, como los antivirus, los #[i firewalls] y las políticas de seguridad.
               li 
                 i.fas.fa-check-circle.color1
-                span Funciones de productividad: Explicación de las funciones de productividad del equipo y el software instalado, incluyendo cómo utilizar las herramientas de gestión de proyectos, las suites de oficina y otras aplicaciones de productividad.
+                span #[b Funciones de productividad:] explicación de las funciones de productividad del equipo y el #[i software] instalado, incluyendo cómo utilizar las herramientas de gestión de proyectos, las suites de oficina y otras aplicaciones de productividad.
               li 
                 i.fas.fa-check-circle.color1
-                span Funciones de conectividad: Explicación de las funciones de conectividad del equipo y el software instalado, incluyendo cómo configurar y utilizar las conexiones de red, las VPN y otros ajustes de red.
+                span #[b Funciones de conectividad:] explicación de las funciones de conectividad del equipo y el #[i software] instalado, incluyendo cómo configurar y utilizar las conexiones de red, las VPN y otros ajustes de red.
           div(titulo="Resolución de problemas básicos")
             p La instrucción sobre la resolución de problemas básicos proporciona al usuario las habilidades y conocimientos necesarios para resolver problemas comunes que puedan surgir.
             ul.lista-ul.fa-ul.ps-4
               li 
                 i.fas.fa-check-circle.color1
-                span Problemas de #[i hardware]: Instrucción sobre cómo resolver problemas comunes de #[i hardware], incluyendo cómo reemplazar componentes defectuosos, cómo solucionar problemas de conectividad y cómo realizar diagnósticos de #[i hardware].
+                span #[b Problemas de #[i hardware]:] instrucción sobre cómo resolver problemas comunes de #[i hardware], incluyendo cómo reemplazar componentes defectuosos, cómo solucionar problemas de conectividad y cómo realizar diagnósticos de #[i hardware].
               li 
                 i.fas.fa-check-circle.color1
-                span Problemas de #[i software]: Instrucción sobre cómo resolver problemas comunes de #[i software], incluyendo cómo reinstalar aplicaciones, cómo solucionar problemas de compatibilidad y cómo realizar diagnósticos de #[i software].
+                span #[b Problemas de #[i software]:] instrucción sobre cómo resolver problemas comunes de #[i software], incluyendo cómo reinstalar aplicaciones, cómo solucionar problemas de compatibilidad y cómo realizar diagnósticos de #[i software].
               li 
                 i.fas.fa-check-circle.color1
-                span Problemas de red: Instrucción sobre cómo resolver problemas comunes de red, incluyendo cómo solucionar problemas de conectividad, cómo configurar y utilizar las VPN y cómo realizar diagnósticos de red.
+                span #[b Problemas de red:] instrucción sobre cómo resolver problemas comunes de red, incluyendo cómo solucionar problemas de conectividad, cómo configurar y utilizar las VPN y cómo realizar diagnósticos de red.
 
 
       .col-lg-3.my-lg-0.my-3
