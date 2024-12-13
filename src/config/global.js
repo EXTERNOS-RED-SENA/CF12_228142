@@ -180,41 +180,41 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tests de rendimiento',
+      tema: '1. Validación de sistemas',
       referencia:
-        'Recursos Educativos Digitales SENA, E. [@EcosistemaSENAVirtual]. (n.d.-d). Pruebas de rendimiento.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024, 3 abril). Pruebas de rendimiento [Vídeo]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=oNY2a2_yOps',
     },
     {
-      tema: '<em>Backup</em> y restauración',
+      tema: '2. Configuración final',
       referencia:
-        'Recursos Educativos Digitales SENA, E. [@EcosistemaSENAVirtual]. (n.d.-b). Criterios de respaldo y recuperación.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, 16 septiembre). Criterios de respaldo y recuperación [Vídeo]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3cYiy1n4hWc',
     },
     {
-      tema: 'Verificación de <em>software</em>',
+      tema: '1. Validación de sistemas',
       referencia:
-        'Verificación y validación en las pruebas de <em>software</em>. (2023, July 25). IT tester - Základné informácie o testovaní softvéru.',
+        'O, M. L. S. S. R. (2023, 25 julio). Verificación y validación en las pruebas de software. IT tester - Základné informácie o testovaní softvéru.',
       tipo: 'Portal web',
-      link:
-        'https://ittester.sk/es/pruebas-manuales/verificacion-validacion/?gad_source=2&gclid=Cj0KCQiAire5BhCNARIsAM53K1j-MHmzvtnCKfO4P1ckx14xWk_dbz7HRZr4rQkfUJR9fgl0vZ-quHwaAu3NEALw_wcB',
+      link: 'https://ittester.sk/es/pruebas-manuales/verificacion-validacion/?gad_source=2&gclid=Cj0KCQiAire5BhCNARIsAM53K1j-MHmzvtnCKfO4P1ckx14xWk_dbz7HRZr4rQkfUJR9fgl0vZ-quHwaAu3NEALw_wcB',
     },
     {
-      tema: 'Verificación de requerimientos',
+      tema: '3. Protocolos de entrega',
       referencia:
-        'Recursos Educativos Digitales SENA, E. [@EcosistemaSENAVirtual]. (n.d.-f). Validación de requisitos.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023b, septiembre 7). Validación de requisitos [Vídeo]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HEl0GrMFq88',
     },
     {
-      tema: 'Pruebas de <em>Hardware</em> y <em>Software</em>',
+      tema: '1. Validación de sistemas',
       referencia:
-        'Recursos Educativos Digitales SENA, E. [@EcosistemaSENAVirtual]. (n.d.-d). Herramientas de <em>Hardware</em> y <em>Software</em>.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023a, febrero 1). Herramientas de hardware y software [Vídeo]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6fjWmQnrBpw',
     },
+    
   ],
   glosario: [
     {
