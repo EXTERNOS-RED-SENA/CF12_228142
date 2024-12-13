@@ -164,7 +164,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228142_CF012_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -198,7 +198,8 @@ export default {
       referencia:
         'O, M. L. S. S. R. (2023, 25 julio). Verificación y validación en las pruebas de software. IT tester - Základné informácie o testovaní softvéru.',
       tipo: 'Portal web',
-      link: 'https://ittester.sk/es/pruebas-manuales/verificacion-validacion/?gad_source=2&gclid=Cj0KCQiAire5BhCNARIsAM53K1j-MHmzvtnCKfO4P1ckx14xWk_dbz7HRZr4rQkfUJR9fgl0vZ-quHwaAu3NEALw_wcB',
+      link:
+        'https://ittester.sk/es/pruebas-manuales/verificacion-validacion/?gad_source=2&gclid=Cj0KCQiAire5BhCNARIsAM53K1j-MHmzvtnCKfO4P1ckx14xWk_dbz7HRZr4rQkfUJR9fgl0vZ-quHwaAu3NEALw_wcB',
     },
     {
       tema: '3. Protocolos de entrega',
@@ -214,7 +215,6 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6fjWmQnrBpw',
     },
-    
   ],
   glosario: [
     {
